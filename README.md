@@ -1,6 +1,6 @@
 # How and Why to Use GitHub for Your Research
 
-Resources and powerpoint slides from the Learn Bioinformatics Chat on April X 2022, titled "How (and why) to use GitHub for your research"
+Resources and powerpoint slides from the Learn Bioinformatics Chat on May 5th 2022, titled "How (and why) to use GitHub for your research"
 
 ### Repository structure
 
