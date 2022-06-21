@@ -2,6 +2,10 @@
 
 Resources and powerpoint slides from the Learn Bioinformatics Chat on May 5th 2022, titled "How (and why) to use GitHub for your research"
 
+### Link to Video of the Talk:
+
+https://www.youtube.com/watch?v=vU2JHc31PAc&t
+
 ### Repository structure
 
 | Folder Name | Folder Contents |
